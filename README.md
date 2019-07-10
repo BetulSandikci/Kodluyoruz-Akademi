@@ -116,7 +116,7 @@ ASAF GÜNAY
 
 * **Program Detayı**
 
-* [.NET Core bootcamp programı](https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
+[.NET Core bootcamp programı](https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
 
 ## Bursa React Bootcamp
 
