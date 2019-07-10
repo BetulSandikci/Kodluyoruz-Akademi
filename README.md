@@ -5,7 +5,7 @@ Kodluyoruz Akademi, bilişim sektöründe kariyer hedefleyen gençlerin iş bulm
 Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanlıurfa’da 10 bootcamp hayata geçirerek 202 gence ulaştık. Bu kamplardan mezun olan gençlerin %65’i takip eden 6 ay içinde işe yerleşti veya daha iyi bir pozisyona geçiş yaptı.
 
 ### İletişim İçin;
-[Info@Kodluyoruz.ORG](mailto:Info@Kodluyoruz.ORG)
+info@kodluyoruz.org
 
 
 # Şu An Devam Eden Bootcamp’ler
