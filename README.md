@@ -1,7 +1,5 @@
 # <img src="bg_akademi.png" alt="Kodluyoruz.ORG" class="logo"/> 
 
-# Kodluyoruz-Akademi
-
 Kodluyoruz Akademi, bilişim sektöründe kariyer hedefleyen gençlerin iş bulma süreçlerini desteklemek üzere hayata geçirdiği hızlandırılmış yazılım eğitimi programıdır. Bootcamp’lerimizde, azimli, çalışkan, teknoloji sektöründe bir kariyer hedefleyen yetenekli gençleri geleceğin yazılımcıları olmaları için destekliyoruz. Programdan mezun olan gençler, hayat boyu Mezunlar Kulübü’müze üye oluyor ve kendileri gibi pek çok gençle bir araya geliyor.
 
 Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanlıurfa’da 10 bootcamp hayata geçirerek 202 gence ulaştık. Bu kamplardan mezun olan gençlerin %65’i takip eden 6 ay içinde işe yerleşti veya daha iyi bir pozisyona geçiş yaptı.
@@ -10,17 +8,17 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 [Info@Kodluyoruz.ORG](mailto:Info@Kodluyoruz.ORG)
 
 
-**Şu An Devam Eden Bootcamp’ler**
+# Şu An Devam Eden Bootcamp’ler
 
-# İstanbul 
+# İstanbul
 
 ## İstanbul IOS Bootcamp
 
 * **Eğitmenler**
 
- Tolga TANER, [TolgaTANER43@gmail.com](mailto:TolgatTANER43@gmail.com)
+ Tolga TANER
 
- Kerim ÇAĞLAR, [Kerim.CAGLARR@gmail.com](mailto:kerim.caglarr@gmail.com)
+ Kerim ÇAĞLAR
 
 * **Süre**
 
@@ -28,13 +26,13 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 
 * **Program Detayı**
 
-* [IOS Bootcamp Programı](https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
+ [IOS Bootcamp Programı](https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
 
 ## İstanbul React Native Bootcamp
 
 * **Eğitmen**
 
- YASİN UĞURLU, [Linkedin](https://www.linkedin.com/in/yasinugurlu/)
+ YASİN UĞURLU
 
 * **Süre**
 
@@ -42,7 +40,7 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 
 * **Program Detayı**
 
-* [React Native bootcamp programı](https://github.com/yasinugrl/react-native-egitimi)
+[React Native bootcamp programı](https://github.com/yasinugrl/react-native-egitimi)
 
 ## İstanbul Python & Makine Öğrenmesine Giriş Bootcamp
 
@@ -56,7 +54,7 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 
 * **Program Detayı**
 
-* [Python bootcamp programı]( https://github.com/fuatbeser/python-programlamaya-giris)
+[Python bootcamp programı]( https://github.com/fuatbeser/python-programlamaya-giris)
 
 ## İstanbul ASP.NET MVC Bootcamp
 
@@ -70,7 +68,7 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 
 * **Program Detayı**
 
-* [ASP.NET MVC Bootcamp programı]( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
+[ASP.NET MVC Bootcamp programı]( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
 
 
 ## İstanbul Python Bootcamp
@@ -85,7 +83,7 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 
 * **Program Detayı**
 
-* [Python bootcamp programı]( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
+[Python bootcamp programı]( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
 
 
 # Ankara
@@ -102,7 +100,7 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 
 * **Program Detayı**
 
-* [Phyton bootcamp programı:](https://github.com/fuatbeser/python-programlamaya-giriss)
+[Phyton bootcamp programı:](https://github.com/fuatbeser/python-programlamaya-giriss)
 
 # Bursa
 
@@ -132,7 +130,7 @@ FATİH ŞEN
 
 * **Program Detayı**
 
-* [React bootcamp programı](https://github.com/ftihsen/react-redux-course)
+[React bootcamp programı](https://github.com/ftihsen/react-redux-course)
 
 # Şanlıurfa
 
@@ -148,7 +146,7 @@ MEHMET KANBAZ
 
 * **Program Detayı**
 
-* [.NET MVC bootcamp programı](https://github.com/MKanbaz/.NET-MVC)
+[.NET MVC bootcamp programı](https://github.com/MKanbaz/.NET-MVC)
 
 
 ### Kodluyoruz ile ilgili detaylara;
