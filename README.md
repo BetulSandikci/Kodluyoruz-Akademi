@@ -8,145 +8,55 @@ Kodluyoruz Akademi kapsamında 2019 itibariyle İstanbul, Ankara, Bursa ve Şanl
 info@kodluyoruz.org
 
 
-# Şu An Devam Eden Bootcamp’ler
+# Bootcamp’ler
 
 # İstanbul
 
-## İstanbul IOS Bootcamp
+## IOS Bootcamp
 
-* **Eğitmenler**
+* [Program Detayı] (https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
 
- Tolga TANER
+## React Native Bootcamp
 
- Kerim ÇAĞLAR
-
-* **Süre**
-
-20 Temmuz – 15 Eylül 2019 Bootcamp’lerin bir tanesi sadece Cumartesi günleri 09:00 – 15:00, diğeri sadece Pazar günleri 09:00 – 15:00 olacak.
-
-* **Program Detayı**
-
- [IOS Bootcamp Programı](https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
-
-## İstanbul React Native Bootcamp
-
-* **Eğitmen**
-
- YASİN UĞURLU
-
-* **Süre**
-
-13 Nisan – 15 Haziran 2019. Eğitimler Cumartesi günleri, 10:00 – 16:30 arasında yapılacak.
-
-* **Program Detayı**
-
-[React Native bootcamp programı](https://github.com/yasinugrl/react-native-egitimi)
-
-## İstanbul Python & Makine Öğrenmesine Giriş Bootcamp
-
-* **Eğitmen**
-
- FUAT BEŞER
-
-* **Süre**
-
-14 Nisan – 23 Haziran 2019. Eğitimler Pazar günleri, 10:00 – 16:30 arasında yapılacak.
-
-* **Program Detayı**
-
-[Python bootcamp programı]( https://github.com/fuatbeser/python-programlamaya-giris)
-
-## İstanbul ASP.NET MVC Bootcamp
-
-* **Eğitmen**
-
- BURAK KARADAĞ
-
-* **Süre**
-
-13 Temmuz – 31 Ağustos 2019 Eğitimler Cumartesi günleri 10:00 – 16:00, Pazar günleri 10:00 – 14:00 arasında yapılacak.
-
-* **Program Detayı**
-
-[ASP.NET MVC Bootcamp programı]( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
+* [Program Detayı] (https://github.com/yasinugrl/react-native-egitimi)
 
 
-## İstanbul Python Bootcamp
+## Python & Makine Öğrenmesine Giriş Bootcamp
 
-* **Eğitmen**
+* [Program Detayı] ( https://github.com/fuatbeser/python-programlamaya-giris)
 
- HAKAN YALÇINKAYA  
 
-* **Süre**
+## ASP.NET MVC Bootcamp
 
-6 Temmuz – 11 Ağustos 2019. Eğitimler Cumartesi – Pazar günleri, 10:00 – 16:00 arasında gerçekleşecek. Ayrıca bazı tarihlerde yüz yüze eğitime ek olarak hafta içi online eğitim de verilecek.
+* [Program Detayı] ( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
 
-* **Program Detayı**
+## Python Bootcamp
 
-[Python bootcamp programı]( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
-
+* **[Program Detayı]** ( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
 
 # Ankara
 
-## Ankara Python & Makine öğrenmesine Giriş Bootcamp
+## Python & Makine öğrenmesine Giriş Bootcamp
 
-* **Eğitmen**
-
-ŞÜKRÜ BEZEN
-
-* **Süre**
-
-4 Mayıs – 11 Ağustos 2019. Eğitimler Cumartesi – Pazar günleri, 10:00-13:30 arasında yapılacak.
-
-* **Program Detayı**
-
-[Phyton bootcamp programı:](https://github.com/fuatbeser/python-programlamaya-giriss)
+* [Program Detayı] (https://github.com/fuatbeser/python-programlamaya-giriss)
 
 # Bursa
 
-## Bursa .Net Core Bootcamp
+## .Net Core Bootcamp
 
-* **Eğitmen**
+* [Program Detayı] (https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
 
-ASAF GÜNAY  
 
-* **Süre**
+## React Bootcamp
 
-13 Nisan – 30 Haziran 2019 Eğitimler Cumartesi – Pazar günleri, 10:00 – 14:00 arasında yapılacak.
-
-* **Program Detayı**
-
-[.NET Core bootcamp programı](https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
-
-## Bursa React Bootcamp
-
-* **Eğitmen**
-
-FATİH ŞEN    
-
-* **Süre**
-
-13 Nisan – 26 Mayıs 2019. Eğitimler Cumartesi – Pazar günleri, 14:30 – 17:30 arasında yapılacak.
-
-* **Program Detayı**
-
-[React bootcamp programı](https://github.com/ftihsen/react-redux-course)
+* [Program Detayı](https://github.com/ftihsen/react-redux-course)
 
 # Şanlıurfa
 
-## Şanlıurfa .NET MVC Bootcamp
+## .NET MVC Bootcamp
 
-* **Eğitmen**
+* [Program Detayı] (https://github.com/MKanbaz/.NET-MVC)
 
-MEHMET KANBAZ 
-
-* **Süre**
-
-4 Mayıs – 13 Temmuz 2019. Eğitimler Cumartesi-Pazar günleri, 10:00-13:30 arasında gerçekleşecek.
-
-* **Program Detayı**
-
-[.NET MVC bootcamp programı](https://github.com/MKanbaz/.NET-MVC)
 
 
 ### Kodluyoruz ile ilgili detaylara;
