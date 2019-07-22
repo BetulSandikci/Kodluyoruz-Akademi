@@ -14,37 +14,37 @@ info@kodluyoruz.org
 
 ## IOS Bootcamp
 
-* [Program Detayı] (https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
+* [Program Detayı](https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
 
 ## React Native Bootcamp
 
-* [Program Detayı] (https://github.com/yasinugrl/react-native-egitimi)
+* [Program Detayı](https://github.com/yasinugrl/react-native-egitimi)
 
 
 ## Python & Makine Öğrenmesine Giriş Bootcamp
 
-* [Program Detayı] ( https://github.com/fuatbeser/python-programlamaya-giris)
+* [Program Detayı]( https://github.com/fuatbeser/python-programlamaya-giris)
 
 
 ## ASP.NET MVC Bootcamp
 
-* [Program Detayı] ( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
+* [Program Detayı]( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
 
 ## Python Bootcamp
 
-* **[Program Detayı]** ( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
+* [Program Detayı]( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
 
 # Ankara
 
 ## Python & Makine öğrenmesine Giriş Bootcamp
 
-* [Program Detayı] (https://github.com/fuatbeser/python-programlamaya-giriss)
+* [Program Detayı](https://github.com/fuatbeser/python-programlamaya-giriss)
 
 # Bursa
 
 ## .Net Core Bootcamp
 
-* [Program Detayı] (https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
+* [Program Detayı](https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
 
 
 ## React Bootcamp
@@ -55,7 +55,15 @@ info@kodluyoruz.org
 
 ## .NET MVC Bootcamp
 
-* [Program Detayı] (https://github.com/MKanbaz/.NET-MVC)
+* [Program Detayı](https://github.com/MKanbaz/.NET-MVC)
+
+
+
+
+
+
+
+
 
 
 
