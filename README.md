@@ -9,44 +9,44 @@ info@kodluyoruz.org
 # Bootcamp’ler
 
 
-* İstanbul IOS Bootcamp
+* IOS Bootcamp
 
   * [Program Detayı](https://kodluyoruz.github.io/Kodluyoruz-iOS-Bootcamp/)
 
-* İstanbul React Native Bootcamp
+* React Native Bootcamp
 
   * [Program Detayı](https://github.com/yasinugrl/react-native-egitimi)
 
 
-* İstanbul Python & Makine Öğrenmesine Giriş Bootcamp
+* Python & Makine Öğrenmesine Giriş Bootcamp
 
   * [Program Detayı]( https://github.com/fuatbeser/python-programlamaya-giris)
 
 
-* İstanbul ASP.NET MVC Bootcamp
+* ASP.NET MVC Bootcamp
 
   * [Program Detayı]( https://github.com/HBurakKaradag/aspnet-mvc-course/blob/master/README.md)
 
-* İstanbul Python Bootcamp
+* Python for Web Development Bootcamp
 
   * [Program Detayı]( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
 
-* Ankara Python & Makine öğrenmesine Giriş Bootcamp
+*  Python & Makine Öğrenmesine Giriş Bootcamp
 
   * [Program Detayı](https://github.com/fuatbeser/python-programlamaya-giriss)
 
 
-* Bursa .Net Core Bootcamp
+* .Net Core Bootcamp
 
   * [Program Detayı](https://github.com/asafgunay/dotnet-core-mvc-web-api-course/blob/master/README.md)
 
 
-* Bursa React Bootcamp
+* React Bootcamp
 
    * [Program Detayı](https://github.com/ftihsen/react-redux-course)
 
 
-* Şanlıurfa .NET MVC Bootcamp
+* .NET MVC Bootcamp
 
   * [Program Detayı](https://github.com/MKanbaz/.NET-MVC)
 
