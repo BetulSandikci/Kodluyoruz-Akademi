@@ -31,10 +31,6 @@ info@kodluyoruz.org
 
   * [Program Detayı]( https://github.com/hakanyalcinkaya/kodluyoruz-org-python-ve-django-egitimi )
 
-*  Python & Makine Öğrenmesine Giriş Bootcamp
-
-  * [Program Detayı](https://github.com/fuatbeser/python-programlamaya-giriss)
-
 
 * .Net Core Bootcamp
 
